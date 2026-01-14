@@ -8,3 +8,6 @@ seaborn
 
 # # Stats
 scikit-learn
+
+# # Text Cleaning
+nltk
